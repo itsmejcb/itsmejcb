@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Facebook](www.facebook.com/profile.php?id=100012294751962) [Telegram](https://t.me/+3GtQZQIahK5hZTg1) 
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Programming has no exit.
 
 <!---
 itsmejcb/itsmejcb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
