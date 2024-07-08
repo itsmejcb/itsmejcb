@@ -5,7 +5,7 @@
 - 📫 How to reach me [Facebook](www.facebook.com/profile.php?id=100012294751962) [Telegram](https://t.me/+1ClwhNCAGkBkYWM1) 
 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Programming has no exit.
+- ⚡ Fun fact: There's no exit in programming.
 
 <!---
 itsmejcb/itsmejcb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
