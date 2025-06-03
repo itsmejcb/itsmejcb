@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning laravel and next.js
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There's no exit in programming.
-
+- 💾 Discord: https://discord.gg/chGU93dv
 <!---
 [Telegram](https://t.me/+1ClwhNCAGkBkYWM1) 
 - 📫 How to reach me [Facebook](www.facebook.com/profile.php?id=100012294751962) 
